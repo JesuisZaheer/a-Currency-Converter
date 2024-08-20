@@ -12,7 +12,7 @@ body {
   justify-content: center;
   min-height: 100vh;
   padding: 0 10px;
-  background-image: linear-gradient(to right, gray, ghostwhite);
+  background-image: linear-gradient(to right, black, ghostwhite);
 }
 ::selection {
   color: #fff;
